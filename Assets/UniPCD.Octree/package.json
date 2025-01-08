@@ -1,0 +1,12 @@
+{
+    "name": "com.autumn60.unipcd.octree",
+    "version": "0.1.0",
+    "displayName": "UniPCD.Octree",
+    "description": "",
+    "unity": "2021.1",
+    "dependencies": {
+      "com.autumn60.unipcd": "0.1.0"
+    },
+    "keywords": [
+    ]
+}
